@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/A/B%20Testing-4A154B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Forecasting-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Customer%20Sentiment%20Analysis-000000?style=for-the-badge"/>
 
 </div>
 
